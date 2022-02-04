@@ -17,7 +17,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelKleemoff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 *since Feb. 3, 2022*
 
