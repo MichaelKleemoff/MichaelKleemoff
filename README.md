@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-This Week I Spent My Time On:
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 *since Feb. 3, 2022*
