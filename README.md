@@ -9,4 +9,4 @@ MichaelKleemoff/MichaelKleemoff is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${MichaelKleemoff}.${MichaelKleemoff})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${MichaelKleemoff}.${MichaelKleemoff}&left_color=amber&right_color=cobalt)
