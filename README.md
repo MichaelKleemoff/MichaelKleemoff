@@ -9,7 +9,7 @@ MichaelKleemoff/MichaelKleemoff is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Michael Kleemoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelKleemoff&show_icons=true&theme=tokyonight)
+![Michael Kleemoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelKleemoff&show_icons=true&theme=onedark)
 
 <!--START_SECTION:waka-->
 ```text
