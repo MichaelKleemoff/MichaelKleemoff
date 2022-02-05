@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 ![Michael Kleemoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelKleemoff&show_icons=true&theme=merko)
 
 <!--START_SECTION:waka-->
-```text
+<!-- ```text
 No Activity tracked this Week
-```
+``` -->
 <!--END_SECTION:waka-->
 
 
