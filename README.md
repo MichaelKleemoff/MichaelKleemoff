@@ -2,7 +2,7 @@
 
 - 💻 I’m interested in becoming a full-stack software engineer.
 - 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) full-stack software engineering program located at *47-10 Austell Pl, 2nd floor, Long Island City, NY.* 
-- 💼 I’m looking to network and collaborate on building full-stack web applications.
+- 🌐 I’m looking to network and collaborate on building full-stack web applications.
 
 **👨🏽‍💻 My technologies:**
 
@@ -17,7 +17,7 @@
 
 **📬 How to reach me:**
 
-- 
+- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kleemoff-jr)
 - 📧 Email me at michaelkleemoff2@gmail.com
 
 ![Codewars](https://www.codewars.com/users/MichaelKleemoff/badges/micro)
