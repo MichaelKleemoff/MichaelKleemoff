@@ -1,7 +1,7 @@
 **🖖 Peace, I'm Michael Kleemoff:**
 
 - 💻 I’m interested in becoming a full-stack software engineer.
-- 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) full-stack software engineering program located at *47-10 Austell Pl, 2nd floor, Long Island City, NY.* 
+- 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) PERN full-stack software engineering program located at *47-10 Austell Pl, 2nd floor, Long Island City, NY.* 
 - 🌐 I’m looking to network and collaborate on building full-stack web applications.
 
 **👨🏽‍💻 My technologies:**
