@@ -1,4 +1,6 @@
-**🖖 Peace, I'm Michael Kleemoff:**
+![myGitHub-banner](https://thumbs.dreamstime.com/z/web-programming-banner-technology-concept-people-connections-internet-business-mixed-media-219287770.jpg)
+___
+# 🖖 Peace, I'm Michael Kleemoff:
 
 - 💻 I’m interested in obtaining a full-stack software engineering position at a tech company.
 - 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) PERN full-stack software engineering program located at *47-10 Austell Pl, 2nd floor, Long Island City, NY.* 
@@ -16,6 +18,7 @@
 - 🎻 I can play the violin
 - 🍞 I love to bake bread
 - 🎨 I love to paint in acrylic
+- 🖖 I'm a trekkie 
 
 **📬 How to reach me:**
 
