@@ -20,7 +20,7 @@ ___
 - 🎻 I can play the violin
 - 🍞 I love to bake bread
 - 🎨 I love to paint in acrylic
-- 🖖 I'm a trekkie 
+- 🖖 I'm a trekker 
 
 **📬 How to reach me:**
 
