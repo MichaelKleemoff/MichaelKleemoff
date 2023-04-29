@@ -1,11 +1,13 @@
-![myGitHub-banner](https://thumbs.dreamstime.com/z/web-programming-banner-technology-concept-people-connections-internet-business-mixed-media-219287770.jpg)
+<!-- ![myGitHub-banner](https://thumbs.dreamstime.com/z/web-programming-banner-technology-concept-people-connections-internet-business-mixed-media-219287770.jpg) -->
+
+![JavaScript](https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)
 
 ___
 
 ## 🖖 Peace, I'm Michael Kleemoff:
 
 - 💻 I’m interested in obtaining a full-stack software engineering position at a tech company.
-- 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) PERN full-stack software engineering program located at *47-10 Austell Pl, 2nd floor, Long Island City, NY.* 
+- 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) PERN full-stack software engineering program. 
 - 🌐 I’m looking to network and collaborate with like-minded engineers on building full-stack web applications that will impact society globally in a positive way.
 - 🎒 I would like to work with talented and passionate young people who are interested in tech to facilitate their dreams of breaking into software engineering and who have traditionally haven't had the finances or opportunity to actualize those dreams.
 
