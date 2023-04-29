@@ -23,6 +23,7 @@ ___
 - 🍞 I love to bake bread
 - 🎨 I love to paint in acrylic
 - 🖖 I'm a trekker 
+- 👊 I love Wing Chun
 
 **📬 How to reach me:**
 
