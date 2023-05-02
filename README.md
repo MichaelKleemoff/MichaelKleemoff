@@ -10,7 +10,7 @@ ___
 - 💻 I’m interested in obtaining a full-stack software engineering position at a tech company.
 - 📚 I’m currently enrolled at the [Pursuit Fellowship](https://www.pursuit.org/) PERN full-stack software engineering program. 
 - 🌐 I’m looking to network and collaborate with like-minded engineers on building full-stack web applications that will impact society globally in a positive way.
-- 🎒 I would like to work with talented and passionate young people who are interested in tech to facilitate their dreams of breaking into software engineering and who have traditionally haven't had the finances or opportunity to actualize those dreams.
+- 🎒 I would like to work with talented and passionate young people who are interested in tech to facilitate their dreams of breaking into software engineering and who traditionally haven't had the finances or opportunity to actualize those dreams.
 
 **👨🏽‍💻 My technologies:**
 
