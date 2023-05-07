@@ -27,7 +27,7 @@ ___
 
 **📬 How to reach me:**
 
-- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kleemoff-jr)
-- 📧 Email me at michaelkleemoff2@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kleemoff-jr)
+- michaelkleemoff2@gmail.com
 
 [![Codewars](https://www.codewars.com/users/MichaelKleemoff/badges/large)](https://www.codewars.com/users/MichaelKleemoff)
