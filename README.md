@@ -1,6 +1,7 @@
 <!-- ![myGitHub-banner](https://thumbs.dreamstime.com/z/web-programming-banner-technology-concept-people-connections-internet-business-mixed-media-219287770.jpg) -->
 
 <!-- ![JavaScript](https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg) -->
+
 ![Node.js](https://wallpaperaccess.com/full/1567531.png)
 
 ___
@@ -29,6 +30,8 @@ ___
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kleemoff-jr)
 - michaelkleemoff2@gmail.com
+
+___
 
 [![Codewars](https://www.codewars.com/users/MichaelKleemoff/badges/large)](https://www.codewars.com/users/MichaelKleemoff)
 
