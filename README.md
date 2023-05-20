@@ -44,3 +44,4 @@ ___
 ___
 
 ![views](https://komarev.com/ghpvc/?username=michaelkleemoff&label=Profile%20views&color=0e75b6&style=flat)
+<figure><embed src="https://wakatime.com/share/@11747adf-69f9-46e4-ba0b-892db81de826/6d97b40f-e8e8-4983-bf9b-948044633b66.svg"></embed></figure>
