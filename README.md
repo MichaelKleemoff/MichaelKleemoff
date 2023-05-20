@@ -35,11 +35,6 @@ ___
 
 [![Codewars](https://www.codewars.com/users/MichaelKleemoff/badges/large)](https://www.codewars.com/users/MichaelKleemoff)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelkleemoff&show_icons=true&locale=en" alt="michaelkleemoff" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkleemoff&show_icons=true&locale=en&layout=compact" alt="michaelkleemoff" /></p>
-
-<!-- <p align=""> <img src=   alt="michaelkleemoff"/> </p> -->
 ___
 
 ![wakatime-vs-code](https://wakatime.com/share/@11747adf-69f9-46e4-ba0b-892db81de826/929b00a3-7159-4108-b5ae-46d945c7d5d9.png)
