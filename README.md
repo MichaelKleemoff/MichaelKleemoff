@@ -40,14 +40,13 @@ ___
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkleemoff&show_icons=true&locale=en&layout=compact" alt="michaelkleemoff" /></p>
 
 <!-- <p align=""> <img src=   alt="michaelkleemoff"/> </p> -->
-
-___
-
-![views](https://komarev.com/ghpvc/?username=michaelkleemoff&label=Profile%20views&color=0e75b6&style=flat)
-
 ___
 
 ![wakatime-vs-code](https://wakatime.com/share/@11747adf-69f9-46e4-ba0b-892db81de826/929b00a3-7159-4108-b5ae-46d945c7d5d9.png)
 
 ![wakatime-lang-usage](https://wakatime.com/share/@11747adf-69f9-46e4-ba0b-892db81de826/bd061e72-5820-49d8-a346-2bcd9d2f0120.png)
+
+___
+
+![views](https://komarev.com/ghpvc/?username=michaelkleemoff&label=Profile%20views&color=0e75b6&style=flat)
     
