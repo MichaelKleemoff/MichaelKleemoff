@@ -41,6 +41,7 @@ ___
 
 ![wakatime-lang-usage](https://wakatime.com/share/@11747adf-69f9-46e4-ba0b-892db81de826/bd061e72-5820-49d8-a346-2bcd9d2f0120.png)
 
+[![wakatime](https://wakatime.com/badge/user/11747adf-69f9-46e4-ba0b-892db81de826.svg)](https://wakatime.com/@11747adf-69f9-46e4-ba0b-892db81de826)
 ___
 
 ![views](https://komarev.com/ghpvc/?username=michaelkleemoff&label=Profile%20views&color=0e75b6&style=flat)
